@@ -1,0 +1,27 @@
+.main_container {
+  display: flex;
+  inline-size: auto;
+  block-size: 100px;
+  flex-direction: row;
+}
+
+.emission_container {
+  display: flex;
+}
+
+.emission_cell {
+  margin: 1vh;
+}
+
+.rows {
+  display: flex;
+  flex-direction: row;
+}
+
+.row_cell {
+  margin: 1vh;
+}
+
+body {
+  background-color: #f7fafc;
+}

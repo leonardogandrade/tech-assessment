@@ -1,0 +1,9 @@
+.main_card {
+  width: 10vh;
+  height: 500px;
+}
+
+.main_container {
+  display: "flex";
+  justify-content: "center";
+}
