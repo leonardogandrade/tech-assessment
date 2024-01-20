@@ -1,5 +1,7 @@
 # Tech assessment
 
+![alt text](https://github.com/leonardogandrade/tech-assessment/blob/main/assets/main_page.png?raw=true)
+
 ## Instalation
 
 1. Enter into the frontend and backend folder and install the dependencies:
